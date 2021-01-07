@@ -9,8 +9,6 @@
 <img alt="licence-badge-npm" src="https://img.shields.io/static/v1?label=npm&message=v6.14.9&color=green">
 </div>
 
-#
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -24,13 +22,15 @@
 
 #### Desktop
 
-<img src="./page_photos/desktop.png">
+<img  src="./page_photos/desktop.png">
 
 #
 
 #### Mobile
 
-<img src="./page_photos/mobile.png">
+<div align='center'>
+<img width=375 src="./page_photos/mobile.png">
+</div>
 
 ### About
 
