@@ -1,9 +1,7 @@
 <div align="center" >
 <img height=55 src="./page_photos/logo.png">
 <h1 style="font-size: 23px">SONOS Web Page</h1>
-</div>
 
-<div align="center">
 <img alt="licence-badge-mit" src="https://img.shields.io/static/v1?label=licence&message=MIT&color=blue">
 <img alt="licence-badge-node" src="https://img.shields.io/static/v1?label=node&message=v14.15.3&color=green">
 <img alt="licence-badge-npm" src="https://img.shields.io/static/v1?label=npm&message=v6.14.9&color=green">
@@ -14,7 +12,6 @@
 - [Overview](#overview)
   - [About](#about)
   - [Technologies](#technologies)
-- [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 
@@ -36,7 +33,7 @@
 
 This project is a UI/UX redesign of the product page **SONOS**.
 
-In the web page you can check the informations of the products, like price and description, you can also check a vídeo (Retired in the official site of SONOS) and exchange between the colors available on the product.
+In the web page you can check the informations of the products, like price and description, you can also check a vídeo (Retired from the official site of SONOS) and change between the colors available.
 
 ### Technologies
 
@@ -44,7 +41,7 @@ In the web page you can check the informations of the products, like price and d
 - [Redux](https://redux.js.org/) | Manage the React states
 - [StyledComponents](https://styled-components.com/) | CSS-IN-JS framework to style the page
 - [ESLint](https://eslint.org/) | Find problems and force a style of code
-- [Prettier](https://https://prettier.io/.org/) | Code formatting
+- [Prettier](https://prettier.io/) | Code formatting
 
 ## How To Use
 
