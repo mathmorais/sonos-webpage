@@ -10,23 +10,20 @@
 
 - [Overview](#overview)
   - [About](#about)
+  - [Images](#images)
   - [Technologies](#technologies)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 
 ## Overview
 
-#### Desktop
+### Images
 
-<img  src="./page_photos/desktop.png">
+<img  src="./page_photos/desktop_black.png">
 
 #
 
-#### Mobile
-
-<div align='center'>
-<img width=375 src="./page_photos/mobile.png">
-</div>
+<img src="./page_photos/desktop_white.png">
 
 ### About
 
