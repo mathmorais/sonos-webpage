@@ -29,7 +29,7 @@
 
 This project is a UI/UX redesign of the product page **SONOS**.
 
-In the web page you can check the informations of the products, like price and description, you can also check a vídeo (Retired from the official site of SONOS) and change between the colors available.
+In the web site you can check the informations of the products, like price and description, you can also check a vídeo (Retired from the official site of SONOS) and change between the colors available.
 
 ### Technologies
 
